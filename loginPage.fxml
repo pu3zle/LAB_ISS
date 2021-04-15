@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gluonhq.charm.glisten.control.TextField?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="397.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField layoutX="102.0" layoutY="188.0" prefHeight="25.0" prefWidth="193.0" />
+      <TextField layoutX="102.0" layoutY="238.0" prefHeight="25.0" prefWidth="193.0" />
+      <Button layoutX="104.0" layoutY="292.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="192.0" text="Login" />
+      <Label layoutX="103.0" layoutY="96.0" text="Login Page">
+         <font>
+            <Font name="Century Gothic" size="35.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
